@@ -2,4 +2,4 @@
 
 En este repositorio incluyo las competencias en las que participo.
 
-- FrioFrio https://metadata.fundacionsadosky.org.ar/competition/20/
+- FrioFrio https://github.com/pablomolteni/Competencias/tree/master/FrioFrio
